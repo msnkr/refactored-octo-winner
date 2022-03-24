@@ -1,0 +1,21 @@
+set $wallpaper /home/mxnkr/Pictures/cropped-1920-1080-826965.png
+
+set $background #0A0101
+set $foreground #f6e6e0
+
+set $color0 #0A0101
+set $color1 #D53E2D
+set $color2 #FAA152
+set $color3 #FAA966
+set $color4 #2D65AB
+set $color5 #EBB096
+set $color6 #FECF9D
+set $color7 #f6e6e0
+set $color8 #aca19c
+set $color9 #D53E2D
+set $color10 #FAA152
+set $color11 #FAA966
+set $color12 #2D65AB
+set $color13 #EBB096
+set $color14 #FECF9D
+set $color15 #f6e6e0

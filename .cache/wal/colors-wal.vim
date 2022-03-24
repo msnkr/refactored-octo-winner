@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/mxnkr/Pictures/cropped-1920-1080-826965.png"
+let background = "#0A0101"
+let foreground = "#f6e6e0"
+let cursor     = "#f6e6e0"
+
+" Colors
+let color0  = "#0A0101"
+let color1  = "#D53E2D"
+let color2  = "#FAA152"
+let color3  = "#FAA966"
+let color4  = "#2D65AB"
+let color5  = "#EBB096"
+let color6  = "#FECF9D"
+let color7  = "#f6e6e0"
+let color8  = "#aca19c"
+let color9  = "#D53E2D"
+let color10 = "#FAA152"
+let color11 = "#FAA966"
+let color12 = "#2D65AB"
+let color13 = "#EBB096"
+let color14 = "#FECF9D"
+let color15 = "#f6e6e0"
